@@ -1,6 +1,6 @@
 # Waze
 
-## Data Analytics Project Aimed at Preventing Monthly User Churn on the Waze App
+## Development of Machine Learning Model to Prevent User Churn in the Waze App
 
 ### waze1
 1. Compile summary information about the data
