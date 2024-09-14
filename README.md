@@ -9,3 +9,7 @@
 ### waze2
 1. Data exploration and cleaning - EDA Report
 2. Visualization building - Python and Tableau
+
+### waze3
+1. Compute descriptive statistics
+2. Conduct hypothesis testing
