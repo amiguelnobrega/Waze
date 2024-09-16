@@ -13,3 +13,7 @@
 ### waze3
 1. Compute descriptive statistics
 2. Conduct hypothesis testing
+
+### waze4
+1. Build a regression model
+2. Evaluate the regression model
