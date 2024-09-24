@@ -17,3 +17,7 @@
 ### waze4
 1. Build a regression model
 2. Evaluate the regression model
+
+### waze5
+1. Build a machine learning model
+2. Final report
